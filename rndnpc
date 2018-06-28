@@ -1,0 +1,6 @@
+%INFO%*****************************************************
+%INFO%*****************************************************
+%INFO%***********Script remote rename domain PC************
+%INFO%*****************************************************
+%INFO%*****************************************************
+netdom renamecomputer ? /newname: ? /userd:domain/administrator passwordd:passwordadministrator /reboot /force
